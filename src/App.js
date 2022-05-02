@@ -93,7 +93,7 @@ function App() {
           <img
             className='github-logo rotate-diagonal'
             src={githubLogo}
-            alt='freeCodeCamp'
+            alt='GitHub'
           />
         </a>
       </div>
